@@ -36,8 +36,8 @@ To run the frontend locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-private-repo/vorkinsta-frontend.git
-    cd vorkinsta-frontend
+    git clone https://github.com/ShekharKr1/VORKINSTA-WEBSITE.git
+    cd Vi-WebDev
     ```
 
 2. Install dependencies:
@@ -58,33 +58,8 @@ To run the frontend locally, follow these steps:
 - **Job Browsing**: Browse available jobs and internships.
 - **Profile Creation**: Set up and manage profiles with personal and professional details.
 
-## Design Reference
 
-The design follows the structure outlined in the provided PDF, featuring:
-- **Homepage**: Contains sections for browsing jobs, internships, and employer tools.
-- **Profile Management**: Allows users to create profiles, including skills, certifications, and work experience.
-- **Job Listings**: Employers can post jobs with detailed descriptions (job title, package, required experience).
 
-Refer to the attached PDF for detailed layout and design elements.
 
-## Contributing
 
-This is a private project, and contributions are limited to authorized personnel only.
 
-1. Create a new branch for your feature or fix:
-    ```bash
-    git checkout -b <feature-branch-name>
-    ```
-2. Make your changes and commit:
-    ```bash
-    git commit -m "Add feature description"
-    ```
-3. Push your branch:
-    ```bash
-    git push -u origin <feature-branch-name>
-    ```
-4. Open a pull request for review.
-
-## License
-
-This is a private project and is not available for public distribution or use.
