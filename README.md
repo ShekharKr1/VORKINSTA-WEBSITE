@@ -8,9 +8,6 @@
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Design Reference](#design-reference)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 Vorkinsta provides users with:
